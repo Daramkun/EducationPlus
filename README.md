@@ -1,4 +1,4 @@
-EducationPlus
+Education Plus
 =============
 
-Submission of 2009 Information Olympiad Competition in Korea
+2009 한국정보올림피아드 공모부문에 제출한 응용프로그램.
